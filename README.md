@@ -1,1 +1,5 @@
-# 1150070050_NguyenNgocTuVy_LAB6
+<<<<<<< HEAD
+le len
+=======
+dai dai i 
+>>>>>>> remote-branch-name
